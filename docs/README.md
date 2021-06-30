@@ -3,7 +3,7 @@ comment: false
 ---
 
 ## Greeting
-findlay分享前端心得的地方。
+findlay分享前端心得的地方，博客阅读请移步[www.guojie.fun](www.guojie.fun)。
 ## Content
 主要涵盖前端方向，传送门：
 
