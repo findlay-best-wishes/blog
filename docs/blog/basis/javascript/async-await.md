@@ -1,6 +1,5 @@
 ---
 title: async和await
-next: false
 date: 2020-06-23
 tags:
     - js

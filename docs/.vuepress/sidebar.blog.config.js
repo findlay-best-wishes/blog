@@ -9,6 +9,7 @@ const sidebar_javascript = {
         "/blog/basis/javascript/generator",
         "/blog/basis/javascript/promise",
         "/blog/basis/javascript/async-await",
+        "/blog/basis/javascript/regexp"
     ]
 }
 
