@@ -225,6 +225,15 @@ const sidebar_browser = {
     children: [],
 }
 
+// 侧边栏设计模式博客目录
+const sidebar_design_patterns = {
+    title: "设计模式",
+    path: "/blog/design-patterns/",
+    children: [
+        "/blog/design-patterns/",
+        "/blog/design-patterns/singleton"
+    ]
+}
 //侧边栏目录
 const sidebar_blog =  [
     {
@@ -249,6 +258,7 @@ const sidebar_blog =  [
         path: "/blog/algorithm/",
         children: ["/blog/algorithm/", sidebar_tree],
     },
+    sidebar_design_patterns
 
    // sidebar_browser,
 ];
