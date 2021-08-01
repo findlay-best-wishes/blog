@@ -231,7 +231,8 @@ const sidebar_design_patterns = {
     path: "/blog/design-patterns/",
     children: [
         "/blog/design-patterns/",
-        "/blog/design-patterns/singleton"
+        "/blog/design-patterns/singleton",
+        "/blog/design-patterns/strategies"
     ]
 }
 //侧边栏目录
