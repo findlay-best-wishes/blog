@@ -232,7 +232,8 @@ const sidebar_design_patterns = {
     children: [
         "/blog/design-patterns/",
         "/blog/design-patterns/singleton",
-        "/blog/design-patterns/strategies"
+        "/blog/design-patterns/strategies",
+        "/blog/design-patterns/proxy",
     ]
 }
 //侧边栏目录
