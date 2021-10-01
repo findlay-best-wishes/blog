@@ -1,6 +1,5 @@
 ---
-title: 策略模式,
-next: 
+title: 策略模式
 date: 2021-08-01
 tags:
     - 设计模式

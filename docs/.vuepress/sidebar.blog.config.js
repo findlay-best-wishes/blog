@@ -234,6 +234,8 @@ const sidebar_design_patterns = {
         "/blog/design-patterns/singleton",
         "/blog/design-patterns/strategies",
         "/blog/design-patterns/proxy",
+        "/blog/design-patterns/iterator",
+        "/blog/design-patterns/observer",
     ]
 }
 //侧边栏目录

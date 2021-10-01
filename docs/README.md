@@ -12,7 +12,8 @@ findlay分享前端心得的地方，博客阅读请移步[www.guojie.fun](http:
 - [前端工程化](blog/enginerring/)
 - [node](blog/node/)
 - [计算机网络](blog/cs-network/)
-- [算法](blog/algorithm)
+- [算法](blog/algorithm/)
+- [设计模式](blog/design-patterns/)
 
 内容持续更新...
 ## Contact
